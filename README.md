@@ -1,6 +1,5 @@
-# HTMLCLASS
 
-# 上課內容筆記
+# 上課內容筆記 
 * slide project:應用相關 影像辨識 社群
 
 ### 第一次上傳到github:

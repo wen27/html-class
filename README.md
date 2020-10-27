@@ -13,7 +13,8 @@ git pull先把最新版本下載下來
 	git add .
 	git commit -m "改什麼東西內容"
 	git push把改好東西上傳github
-![github](/first commit github.PNG)
+
+![github](first commit github.PNG)
 
 
 git status: 現在狀態
